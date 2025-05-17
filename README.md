@@ -1,2 +1,1 @@
-This folder will contain the projects or homework done in the Data Science Certification – more of an inventory. To be uploaded in the GitHub repository. [tusher 2025-May-14]
-Files will be in LaTeX→PDF format.
+These files began as Jupyter Notebook scripts written in Python. They were subsequently exported to LaTeX (.tex format), refined within that environment, and rendered into PDF to provide a better visual presentation.

@@ -1,1 +1,1 @@
-These files began as a Jupyter Notebook script written for Python. It was subsequently exported to LaTeX (.tex format), refined within that environment, and finally converted into PDF to provide a better visual presentation.
+These files originated as a Python script in a Jupyter Notebook. They were then exported to LaTeX (.tex format), refined for structure and readability, and finally compiled into a PDF for a cleaner, more pleasant presentation.

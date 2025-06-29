@@ -1,1 +1,1 @@
-These files originated as a Python script in a Jupyter Notebook. They were then exported to LaTeX (.tex format), refined for structure and readability, and finally compiled into a PDF for a cleaner, more pleasant presentation.
+These are my ML projects. They cover creating pipelines, hyperparameter tuning, and measuring the performance of a model. These files originated as a Python script in a Jupyter Notebook. They were then exported to LaTeX (.tex format), refined for structure and readability, and finally compiled into a PDF for a cleaner, more pleasant presentation.
